@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("");
+    printf("Hello World Collaborative");
 
     return 0;
 }
